@@ -4,7 +4,7 @@
 
 **38-module feature toolkit for Dynasty Warriors 3: Complete Edition Remastered**
 
-<a href="YOUR_RELEASE_LINK_HERE">
+<a href="https://github.com/QuarkVeteranLive/dw3-remastered-modkit/releases/download/v1.0.0/DynastyWarriors3_Trainer_v1.0.zip">
   <img src="https://img.shields.io/badge/DOWNLOAD-dw3--remastered--trainer_v1.0-28a745?style=for-the-badge&logo=github&logoColor=white" height="52"/>
 </a>
 
@@ -147,7 +147,7 @@ Game:    Dynasty Warriors 3: Complete Edition Remastered (latest Steam version)
 
 <div align="center">
 
-<a href="YOUR_RELEASE_LINK_HERE">
+<a href="https://github.com/QuarkVeteranLive/dw3-remastered-modkit/releases/download/v1.0.0/DynastyWarriors3_Trainer_v1.0.zip">
   <img src="https://img.shields.io/badge/DOWNLOAD-dw3--remastered--trainer_v1.0-28a745?style=for-the-badge&logo=github&logoColor=white" height="52"/>
 </a>
 
